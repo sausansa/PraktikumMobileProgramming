@@ -1,2 +1,20 @@
 # PraktikumMobileProgramming
 Mobile Programming Practicum 
+| No | Tanggal | Praktikum | Topik | Laporan | Kode |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 1  | 04-09-2025  |1 | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/drive/folders/1EdiTfVHfFCVsiuSI0aJi5gixBjVNlwia?hl=id "Laporan") |[ Kode](https://drive.google.com/drive/folders/1EdiTfVHfFCVsiuSI0aJi5gixBjVNlwia?hl=id " Kode")  |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
