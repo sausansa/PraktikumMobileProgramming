@@ -1,5 +1,5 @@
 # PraktikumMobileProgramming
-Mobile Programming Practicum 
+Halo! Perkenalkan, saya Sausan Shalihah Alfirdausi, mahasiswa Jurusan Teknik Informatika di UIN Maulana Malik Ibrahim Malang. Saat ini saya sedang mendalami bidang pengembangan aplikasi mobile sebagai bagian dari perjalanan akademik saya. Melalui repositori ini, saya mengumpulkan berbagai tugas praktikum Mobile Programming yang saya kerjakan. Harapannya, repositori ini dapat menjadi catatan belajar sekaligus dokumentasi perkembangan kemampuan saya dalam mempelajari teknologi mobile, khususnya menggunakan Flutter dan Dart. 🚀
 | No | Tanggal | Praktikum | Topik | Laporan | Kode |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 1  | 04-09-2025  |1 | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/drive/folders/1EdiTfVHfFCVsiuSI0aJi5gixBjVNlwia?hl=id "Laporan") |[ Kode](https://drive.google.com/drive/folders/1EdiTfVHfFCVsiuSI0aJi5gixBjVNlwia?hl=id " Kode")  |
