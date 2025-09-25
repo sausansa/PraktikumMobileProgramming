@@ -8,8 +8,8 @@ Halo! Perkenalkan, saya Sausan Shalihah Alfirdausi, mahasiswa Jurusan Teknik Inf
 | 4 | 11-09-2025 | 2 | Widget Flexible dan Expanded | [Laporan](https://docs.google.com/document/d/14EIS6CFoWV64ZWZNOUiE7HRtbyUIfD9b/edit?usp=sharing&ouid=106574018275838843826&rtpof=true&sd=true "Laporan")  |[Kode](https://github.com/sausansa/Moudul-4 " Kode")    |
 | 5 | 18-09-2025 | 3 | Widget SizedBox, Spacer, dan Card  |   [Laporan](https://docs.google.com/document/d/1WLR_Tx-yf0-Esst5xaHYuiL3FvCDeJgY/edit "Laporan")  | [ Kode](https://github.com/sausansa/Modul-5 " Kode")  |
 | 6 | 18-09-2025 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder  |  [Laporan](https://docs.google.com/document/d/1TKvnNpMsoxsHY_hQYh93eO7sz4QIymoO/edit "Laporan")  |  [ Kode](https://github.com/sausansa/Modul-6 " Kode")   |
-| 7 | 25-09-2025 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  |  [Laporan]( ( "Laporan")  |  [ Kode](https://github.com/sausansa/Modul-7 " Kode")  |
-| 8 | 25-09-2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  |  [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-8 " Kode")  |
+| 7 | 25-09-2025 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  |  [Laporan](https://docs.google.com/document/d/14cy3I3m2CzTlKlTVba3UQ1tAvllnMDnX/edit "Laporan")  |  [ Kode](https://github.com/sausansa/Modul-7 " Kode")  |
+| 8 | 25-09-2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  |  [Laporan](https://docs.google.com/document/d/1RAphf-edgsguoOUBG9WL3b3_Btt6ucao/edit "Laporan")  | [ Kode](https://github.com/sausansa/Modul-8 " Kode")  |
 | 9 | 02-10-2025 | 5 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-9  " Kode") |
 | 10| 02-10-2025 | 5 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-10  " Kode") |
 | 11| 09-10-2025 | 6 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-11  " Kode")  |
