@@ -12,9 +12,9 @@ Halo! Perkenalkan, saya Sausan Shalihah Alfirdausi, mahasiswa Jurusan Teknik Inf
 | 8 | 25-09-2025 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  |  [Laporan](https://docs.google.com/document/d/1RAphf-edgsguoOUBG9WL3b3_Btt6ucao/edit "Laporan")  | [ Kode](https://github.com/sausansa/Modul-8 " Kode")  |
 | 9 | 02-10-2025 | 5 | Stateful Widget  | [Laporan](https://docs.google.com/document/d/1atHcPsg0qCYbZnmq_-mAjj8Ue039eG71/edit?usp=sharing&ouid=106574018275838843826&rtpof=true&sd=true"Laporan")  | [ Kode](https://github.com/sausansa/Modul-9  " Kode") |
 | 10| 09-10-2025 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Laporan](https://docs.google.com/document/d/1CKKrOqLsAEkDnEB5tGQkj3Iyn3d3Mo1f/edit?usp=sharing&ouid=106574018275838843826&rtpof=true&sd=true "Laporan")  | [ Kode](https://github.com/sausansa/Modul-10  " Kode") |
-| 11| 09-10-2025 | 6 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-11  " Kode")  |
-| 12| 09-10-2025 | 6 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-12  " Kode")  |
-| 13| 16-10-2025 | 7 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-13  " Kode")  |
-| 14| 16-10-2025 | 7 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-14  " Kode")  |
-| 15| 23-10-2025 | 8 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-15  " Kode")  |
-| 16| 23-10-2025 | 8 |   |  [Laporan]( ( "Laporan") | [ Kode](https://github.com/sausansa/Modul-16  " Kode")  |
+| 11| 09-10-2025 | 7 | Manajemen State dengan GetX  | [Laporan](https://docs.google.com/document/d/1sV3lFISou7QplZsc74Nt2u2wL2gIAyTY/edit?usp=sharing&ouid=106574018275838843826&rtpof=true&sd=true"Laporan")  | [ Kode](https://github.com/sausansa/Modul-11  " Kode")  |
+| 12| 09-10-2025 | 8 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-12  " Kode")  |
+| 13| 16-10-2025 | 9 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-13  " Kode")  |
+| 14| 16-10-2025 |10 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-14  " Kode")  |
+| 15| 23-10-2025 |11 |   | [Laporan]( ( "Laporan")  | [ Kode](https://github.com/sausansa/Modul-15  " Kode")  |
+| 16| 23-10-2025 |12 |   |  [Laporan]( ( "Laporan") | [ Kode](https://github.com/sausansa/Modul-16  " Kode")  |
